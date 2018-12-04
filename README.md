@@ -1,3 +1,4 @@
 # 单例模式
-singleton1 懒汉模式
-singleton2 饿汉模式
+- singleton1 懒汉模式
+- singleton2 饿汉模式
+- 分布式锁 需要的小伙伴 请自行下载，自己加上对应的配置即可
